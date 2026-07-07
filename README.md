@@ -23,7 +23,7 @@ All Agile ceremonies are documented in `/docs/sprints`.
 - [Sprint Planning](docs/sprints/planning/sprint_planning.md)
 - [Daily Stand-ups](docs/sprints/planning/daily_standups.md)
 - [Sprint Review](docs/sprints/planning/sprint_review.md)
-- [Sprint Retrospective](docs/sprints/planning/sprint_retrospective.md)
+- [Sprint Retrospective](docs/sprints/planning/sprint_retrospective)
 
 ### ⚙️ Execution Sprint
 - [Sprint Planning](docs/sprints/execution/sprint_planning.md)
