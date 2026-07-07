@@ -26,16 +26,16 @@ All Agile ceremonies are documented in `/docs/sprints`.
 - [Sprint Retrospective](docs/sprints/planning/sprint_retrospective)
 
 ### ⚙️ Execution Sprint
-- [Sprint Planning](docs/sprints/execution/sprint_planning.md)
-- [Daily Stand-ups](docs/sprints/execution/daily_standups.md)
-- [Sprint Review](docs/sprints/execution/sprint_review.md)
-- [Sprint Retrospective](docs/sprints/execution/sprint_retrospective.md)
+- [Sprint Planning](docs/sprints/Execution/sprint_planning.md)
+- [Daily Stand-ups](docs/sprints/Execution/daily_standups.md)
+- [Sprint Review](docs/sprints/Execution/sprint_review.md)
+- [Sprint Retrospective](docs/sprints/Execution/sprint_retrospective.md)
 
 ### 📊 Monitoring Sprint
-- [Sprint Planning](docs/sprints/monitoring/sprint_planning.md)
-- [Daily Stand-ups](docs/sprints/monitoring/daily_standups.md)
-- [Sprint Review](docs/sprints/monitoring/sprint_review.md)
-- [Sprint Retrospective](docs/sprints/monitoring/sprint_retrospective.md)
+- [Sprint Planning](docs/sprints/Monitoring/sprint_planning.md)
+- [Daily Stand-ups](docs/sprints/Monitoring/daily_standups.md)
+- [Sprint Review](docs/sprints/Monitoring/sprint_review.md)
+- [Sprint Retrospective](docs/sprints/Monitoring/sprint_retrospective.md)
 
 ### ✅ Closing Sprint
 - [Sprint Planning](docs/sprints/closing/sprint_planning.md)
