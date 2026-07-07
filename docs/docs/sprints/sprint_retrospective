@@ -1,0 +1,52 @@
+# 🔄 Sprint Retrospective — Property Listing Module
+
+**Date:** July 20, 2026  
+**Sprint:** Planning Sprint — Property Listing Module  
+**Duration:** 2 weeks  
+
+---
+
+## 👥 Attendees
+- Product Owner (PO)  
+- Scrum Master (SM)  
+- Developer A (Frontend)  
+- Developer B (Backend)  
+- QA Engineer  
+
+---
+
+## 🎯 Sprint Goal
+Reflect on process, identify improvements for next sprint.
+
+---
+
+## 📝 Meeting Transcript
+
+**SM:** “What went well, what didn’t, and what can improve?”  
+
+- **Went well:** Collaboration across roles, clear documentation.  
+- **Didn’t go well:** Blockers weren’t raised early enough.  
+- **Improvement:** Daily stand-ups should highlight dependencies sooner.  
+
+**Team agrees to improve communication in Execution Sprint.**
+
+---
+
+## 📂 Linked Issues
+- [Requirements gathering](https://github.com/jagdishmahajan17-netizen/NoBroker-Project-Demo/issues/3)  
+- [Risk register](https://github.com/jagdishmahajan17-netizen/NoBroker-Project-Demo/issues/4)  
+- [Resource allocation](https://github.com/jagdishmahajan17-netizen/NoBroker-Project-Demo/issues/5)  
+
+---
+
+## 📄 Supporting Docs
+- [Retrospective Document](docs/%F0%9F%93%84%20retrospective.md)  
+- [Requirements Document](docs/%F0%9F%93%84%20requirements.md)  
+- [Risk Register](docs/%F0%9F%93%84%20risk_register.md)  
+- [Resource Plan](docs/%F0%9F%93%84%20resource_plan.md)  
+
+---
+
+## ✅ Deliverable
+- Retrospective insights documented  
+- Agreed improvements for Execution Sprint
